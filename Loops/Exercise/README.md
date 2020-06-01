@@ -1,0 +1,2 @@
+1. Write serval programs with three levels of nesting and include FOR loops, WHILE loops, and IF statements. Before you run your program try to predict what your program is going to print. If the result is different from your prediction try to figure out why.
+2. Enter the yes command into the console, then stop the program from running. Take a look at the man page for yes to learn more about the program.
